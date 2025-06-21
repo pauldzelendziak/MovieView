@@ -3,6 +3,3 @@
 
 # Location of the SDK. This is only used by Gradle.
 sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
-
-# TMDB API Key - Get your API key from https://www.themoviedb.org/settings/api
-TMDB_API_KEY=your_actual_api_key_here 
